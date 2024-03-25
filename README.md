@@ -12,4 +12,4 @@ I simply made sure that it was available via TAMPERMONKEY
 
 ######################################################################################
 
-## Install Scipt: https://github.com/Christof121/VineFetchFix/blob/main/main.user.js
+## Install Scipt: https://raw.githubusercontent.com/Christof121/VineFetchFix/main/main.user.js
