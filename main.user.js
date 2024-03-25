@@ -2,8 +2,8 @@
 // @name         Vine Infinite Loading Fix
 // @namespace    http://tampermonkey.net/
 // @version      1.0
-// @updateURL    https://raw.githubusercontent.com//Christof121/VineFetchFix/main/main.user.js
-// @downloadURL  https://raw.githubusercontent.com//Christof121/VineFetchFix/main/main.user.js
+// @updateURL    https://raw.githubusercontent.com/Christof121/VineFetchFix/main/main.user.js
+// @downloadURL  https://raw.githubusercontent.com/Christof121/VineFetchFix/main/main.user.js
 // @description  Fixing the infinite Loading Wheel - Idea and Original Code by https://github.com/FMaz008/VineHelper/
 // @author       Christof
 // @match        *://www.amazon.de/vine/*
