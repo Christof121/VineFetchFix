@@ -11,3 +11,5 @@ Special thanks to the original creator of the script.
 I simply made sure that it was available via TAMPERMONKEY
 
 ######################################################################################
+
+## Install Scipt: https://github.com/Christof121/VineFetchFix/blob/main/main.user.js
