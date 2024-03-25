@@ -10,7 +10,6 @@
 // @match        *://amazon.de/vine/*
 // @match        *://www.amazon.de/-/en/vine/*
 // @license      MIT
-// @connect greasyfork.org
 // ==/UserScript==
 
 
