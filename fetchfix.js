@@ -1,6 +1,9 @@
-var scriptTag = document.createElement("script");
-
     function initInjectScript() {
+        if(document.getElementById('fetchfix')){
+            console.warn('[CF]  | Custom Fetch already Injecte');
+            return;
+        }
+        var scriptTag = document.createElement("script");
         scriptTag.id = 'fetchfix';
         //Inject the infinite loading wheel fix to the "main world"
         scriptTag.innerHTML = newFetch;
