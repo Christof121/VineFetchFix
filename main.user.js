@@ -10,7 +10,7 @@
 // @match        *://amazon.de/vine/*
 // @match        *://www.amazon.de/-/en/vine/*
 // @license      MIT
-// @require        https://raw.githubusercontent.com/Christof121/VineFetchFix/dev/fetchfix.js
+// @require        https://raw.githubusercontent.com/Christof121/VineFetchFix/main/fetchfix.js
 // ==/UserScript==
 
 
