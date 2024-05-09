@@ -10,6 +10,7 @@
 // @match        *://amazon.de/vine/*
 // @match        *://www.amazon.de/-/en/vine/*
 // @license      MIT
+// @require        https://raw.githubusercontent.com/Christof121/VineFetchFix/dev/fetchfix.js
 // ==/UserScript==
 
 
@@ -26,4 +27,6 @@
 
 (async function() {
     'use strict';
+// This is just the base for Tampermonkey
+// The Script will be loaded from the URL provided by //require
 })();
