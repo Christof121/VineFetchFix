@@ -15,10 +15,10 @@ I simply made sure that it was available via TAMPERMONKEY
 ## Install Scipt: https://raw.githubusercontent.com/Christof121/VineFetchFix/main/main.user.js
 
 
-Changelog:
+## Changelog:
 
-1.1
+#### 1.1
 * Moved Code to seperate File to import inside other Tampermonkey Scripts using // @require
 
-1.0
+#### 1.0
 * Initial commit
