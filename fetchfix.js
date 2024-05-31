@@ -138,7 +138,7 @@
     				// The core of the issue is when a special character is at the end of a variation, the jQuery UI which amazon uses will attempt to evaluate it and fail since it attempts to utilize it as part of an html attribute.
     				// In order to resolve this, we make the string safe for an html attribute by escaping the special characters.
     				if (!variation.dimensions[key].match(/[a-z0-9]$/i)) {
-    					variation.dimensions[key] = variation.dimensions[key] + ` VH${fixed}`;
+    					variation.dimensions[key] = variation.dimensions[key] + "fixed";
     					fixed++;
     				}
     
